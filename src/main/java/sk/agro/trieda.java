@@ -14,5 +14,9 @@ public class trieda {
         System.out.println("ahoj");
         System.out.println("ahoj 2");
         System.out.println("ahoj 3");
+        
+        
+        
+        
     }
 }
